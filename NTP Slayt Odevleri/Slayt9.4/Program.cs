@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Slayt9._4
+{
+    public class Hayvan
+    {
+        protected String a = "Hayvan.a";
+        public String d = "Hayvan.d";
+    }
+    public class Kedi : Hayvan { 
+        public Kedi() {
+            Console.WriteLine("Kedi olusturuluyor");
+            Console.WriteLine(a);
+            Console.WriteLine(d);
+            Console.ReadLine();
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Kedi k = new Kedi();
+        }
+    }
+}

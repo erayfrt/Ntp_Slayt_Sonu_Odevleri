@@ -1,0 +1,3 @@
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\Slayt2.5\obj\Debug\Slayt2.5.csproj.AssemblyReference.cache
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\Slayt2.5\obj\Debug\Slayt2.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesm\source\repos\NTP Slayt Odevleri\Slayt2.5\obj\Debug\Slayt2.5.csproj.CoreCompileInputs.cache
